@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T07:15:12.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zHlMZrynPntitLEP6n3o" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T07:16:42.093Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="A6fOHitlkXj1czfGtyLJ" version="21.3.4" type="github">
   <diagram name="Page-1" id="pTGKddGVBu179Sqo4M76">
     <mxGraphModel dx="2625" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -218,11 +218,11 @@
         <mxCell id="C4NJVwHf82PDzk8-M8Or-98" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="530" width="80" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="C4NJVwHf82PDzk8-M8Or-99" value="查看子账户/资金信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-99" value="查看该用户管理子账户资金信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="261.31250000000006" y="790" width="120.74999999999999" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C4NJVwHf82PDzk8-M8Or-100" value="查看子账户/用户交易记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="392.12500000000006" y="790" width="120.74999999999999" height="60" as="geometry" />
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-100" value="查看该用户自身交易记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="522.9350000000001" y="790" width="120.74999999999999" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-101" value="查看用户关联子账户持仓划转/分配记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="653.75" y="790" width="120.74999999999999" height="60" as="geometry" />
@@ -230,8 +230,8 @@
         <mxCell id="C4NJVwHf82PDzk8-M8Or-102" value="查看用户关联子账户资金划转/分配记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="784.5625" y="790" width="119.4375" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C4NJVwHf82PDzk8-M8Or-103" value="查看子账户/用户交易记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="522.9375" y="790" width="120.74999999999999" height="60" as="geometry" />
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-103" value="查看用户在关联子账户下的持仓记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="392.1175" y="790" width="120.74999999999999" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-104" value="对关联子账户的持仓/资金/划转/分配申请进行审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="910" y="790" width="140" height="60" as="geometry" />
