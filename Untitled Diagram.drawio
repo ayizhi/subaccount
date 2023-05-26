@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T06:49:08.858Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="B5WuA37vD1y2aXKqPBZG" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T06:51:27.617Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="v43xbGdCcTAy9UzCp19-" version="21.3.4" type="github">
   <diagram name="Page-1" id="pTGKddGVBu179Sqo4M76">
     <mxGraphModel dx="2625" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -123,15 +123,6 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="652" y="245" as="sourcePoint" />
             <mxPoint x="560" y="110" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="C4NJVwHf82PDzk8-M8Or-42" value="柜台" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="940" y="65" width="130" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="C4NJVwHf82PDzk8-M8Or-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C4NJVwHf82PDzk8-M8Or-26" target="C4NJVwHf82PDzk8-M8Or-42">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="270" as="sourcePoint" />
-            <mxPoint x="610" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C4NJVwHf82PDzk8-M8Or-53" target="C4NJVwHf82PDzk8-M8Or-54">
