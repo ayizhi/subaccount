@@ -1,31 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-05-26T07:11:09.783Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="1h7tqFnKEIsz6Nfo7nqS" version="21.3.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-26T07:15:12.597Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zHlMZrynPntitLEP6n3o" version="21.3.4" type="github">
   <diagram name="Page-1" id="pTGKddGVBu179Sqo4M76">
     <mxGraphModel dx="2625" dy="1435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="C4NJVwHf82PDzk8-M8Or-2" value="盘中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="20" width="90" height="1020" as="geometry" />
+          <mxGeometry x="60" y="20" width="90" height="1350" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-3" value="盘后" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="1050" width="90" height="220" as="geometry" />
+          <mxGeometry x="60" y="1380" width="90" height="220" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-4" value="勾稽" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1050" width="80" height="60" as="geometry" />
+          <mxGeometry x="160" y="1380" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-5" value="结算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1120" width="80" height="150" as="geometry" />
+          <mxGeometry x="160" y="1450" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-6" value="子账户设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="20" width="80" height="500" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="C4NJVwHf82PDzk8-M8Or-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="199.80000000000018" y="559.8" as="targetPoint" />
+            <mxPoint x="199.80000000000018" y="889.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-8" value="交易员交易" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="530" width="80" height="230" as="geometry" />
+          <mxGeometry x="160" y="860" width="80" height="230" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-10" value="主账户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="260" y="170" width="80" height="80" as="geometry" />
@@ -129,37 +129,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-53" value="" style="shape=actor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="261.71" y="570" width="40" height="60" as="geometry" />
+          <mxGeometry x="261.71" y="900" width="40" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-61" value="驱动子账户资金持仓计算" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="C4NJVwHf82PDzk8-M8Or-54" target="C4NJVwHf82PDzk8-M8Or-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-54" value="下单总线" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="750" y="556" width="120" height="80" as="geometry" />
+          <mxGeometry x="750" y="886" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-55" value="子账户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="556" width="80" height="80" as="geometry" />
+          <mxGeometry x="1090" y="886" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-64" value="查看子账户/资金信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="261.31250000000006" y="700" width="120.74999999999999" height="60" as="geometry" />
+          <mxGeometry x="261.31250000000006" y="1030" width="120.74999999999999" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-65" value="查看子账户/用户交易记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="392.12500000000006" y="700" width="120.74999999999999" height="60" as="geometry" />
+          <mxGeometry x="392.12500000000006" y="1030" width="120.74999999999999" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-66" value="查看用户关联子账户持仓划转/分配记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="653.75" y="700" width="120.74999999999999" height="60" as="geometry" />
+          <mxGeometry x="653.75" y="1030" width="120.74999999999999" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-67" value="查看用户关联子账户资金划转/分配记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="784.5625" y="700" width="119.4375" height="60" as="geometry" />
+          <mxGeometry x="784.5625" y="1030" width="119.4375" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-68" value="查看子账户/用户交易记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="522.9375" y="700" width="120.74999999999999" height="60" as="geometry" />
+          <mxGeometry x="522.9375" y="1030" width="120.74999999999999" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-70" value="在固定时间同步柜台流水，与本地委托号对应，修复计算错误的子账户持仓，并留痕" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1050" width="510" height="60" as="geometry" />
+          <mxGeometry x="260" y="1380" width="650" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="C4NJVwHf82PDzk8-M8Or-72" value="&lt;ol&gt;&lt;li&gt;对所有子账户持仓今昨进行调整&lt;/li&gt;&lt;li&gt;根据结算价重新计算当日浮动盈亏&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="260" y="1120" width="510" height="150" as="geometry" />
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-72" value="&lt;ol&gt;&lt;li&gt;对所有子账户持仓今昨进行调整&lt;/li&gt;&lt;li&gt;根据结算价重新计算当日浮动盈亏&lt;/li&gt;&lt;li&gt;对于期货不同交易所不同结算需求的处理，如只算单边保证金&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1450" width="650" height="150" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-45" value="子账户添加删除" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="261.31" y="460" width="120.74999999999999" height="60" as="geometry" />
@@ -189,7 +189,7 @@
           <mxGeometry x="392.11999999999995" y="390" width="120.74999999999999" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-85" value="对关联子账户的持仓/资金/划转/分配申请进行审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="910" y="700" width="140" height="60" as="geometry" />
+          <mxGeometry x="910" y="1030" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-86" value="子账户最大可开仓资金限制" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="784.57" y="390" width="175.43" height="60" as="geometry" />
@@ -198,22 +198,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-88" value="风控中台：【主账户级别：黑名单白名单】&lt;br&gt;【子账户级别：最大可开仓资金限制】" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.shield_shield_advanced;" vertex="1" parent="1">
-          <mxGeometry x="490" y="552" width="78.97" height="88" as="geometry" />
+          <mxGeometry x="490" y="882" width="78.97" height="88" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-91" value="下单总线设置" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="770" width="80" height="270" as="geometry" />
+          <mxGeometry x="160" y="1100" width="80" height="270" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-93" value="黑白名单风控设置" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#BF0816;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.shield_shield_advanced;" vertex="1" parent="1">
-          <mxGeometry x="465" y="790" width="116.67" height="130" as="geometry" />
+          <mxGeometry x="600" y="1130" width="116.67" height="130" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-94" value="各个下单总线内进程运行状态监控" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="260" y="980" width="510" height="60" as="geometry" />
+          <mxGeometry x="260" y="1310" width="650" height="60" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-97" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="C4NJVwHf82PDzk8-M8Or-95" target="C4NJVwHf82PDzk8-M8Or-93">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="C4NJVwHf82PDzk8-M8Or-95" value="主账户" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
-          <mxGeometry x="330" y="815" width="80" height="80" as="geometry" />
+          <mxGeometry x="464.99999999999994" y="1155" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-98" value="用户管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="530" width="80" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-99" value="查看子账户/资金信息" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="261.31250000000006" y="790" width="120.74999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-100" value="查看子账户/用户交易记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="392.12500000000006" y="790" width="120.74999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-101" value="查看用户关联子账户持仓划转/分配记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="653.75" y="790" width="120.74999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-102" value="查看用户关联子账户资金划转/分配记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="784.5625" y="790" width="119.4375" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-103" value="查看子账户/用户交易记录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="522.9375" y="790" width="120.74999999999999" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-104" value="对关联子账户的持仓/资金/划转/分配申请进行审批" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="910" y="790" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-105" value="对用户进行添加/删除/分配子账户操作" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#B0084D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" vertex="1" parent="1">
+          <mxGeometry x="568.97" y="600" width="74" height="78" as="geometry" />
+        </mxCell>
+        <mxCell id="C4NJVwHf82PDzk8-M8Or-106" value="账户登录" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1060.0025" y="1030" width="120.74999999999999" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
